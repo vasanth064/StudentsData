@@ -1,0 +1,58 @@
+[
+  {
+    "name": "",
+    "rollNo": "",
+    "email": "",
+    "address": "",
+    "marks": {
+      "semester1": {
+        "contiousAssement1": {},
+        "contiousAssement2": {},
+        "contiousAssement3": {},
+        "practicalExamination": {},
+        "examination": {},
+        "others": {}
+      },
+      "semester2": {
+        "contiousAssement1": {},
+        "contiousAssement2": {},
+        "contiousAssement3": {},
+        "practicalExamination": {},
+        "examination": {},
+        "others": {}
+      },
+      "semester3": {
+        "contiousAssement1": {},
+        "contiousAssement2": {},
+        "contiousAssement3": {},
+        "practicalExamination": {},
+        "examination": {},
+        "others": {}
+      },
+      "semester4": {
+        "contiousAssement1": {},
+        "contiousAssement2": {},
+        "contiousAssement3": {},
+        "practicalExamination": {},
+        "examination": {},
+        "others": {}
+      },
+      "semester5": {
+        "contiousAssement1": {},
+        "contiousAssement2": {},
+        "contiousAssement3": {},
+        "practicalExamination": {},
+        "examination": {},
+        "others": {}
+      },
+      "semester6": {
+        "contiousAssement1": {},
+        "contiousAssement2": {},
+        "contiousAssement3": {},
+        "practicalExamination": {},
+        "examination": {},
+        "others": {}
+      }
+    }
+  }
+]
