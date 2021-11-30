@@ -1750,6 +1750,226 @@
         }
       }
     }
+  },
+  {
+    "name": "KANISHK P",
+    "rollNo": "19DX012",
+    "email": "19dx12@psgpolytech.ac.in",
+    "address": "ANNAPOORNA MALIGAI PARUVACHI, ANTHIYUR, ERODE",
+    "marks": {
+      "semester1": {
+        "contiousAssement1": {
+          "X18101 - ENGINEERING MATHEMATICS": 8,
+          "X18102 - PHYSICS": 9,
+          "X18103 - CHEMISTRY": 8,
+          "X18104 - ENGLISH": 13,
+          "Z18105 - BASICS ENGNEERING GRAPHICS": 8.5
+        },
+        "contiousAssement2": {
+          "X18101 - ENGINEERING MATHEMATICS": 8,
+          "X18102 - PHYSICS": 7,
+          "X18103 - CHEMISTRY": 6,
+          "X18104 - ENGLISH": 9,
+          "Z18105 - BASICS ENGNEERING GRAPHICS": 10
+        },
+        "contiousAssement3": {
+          "X18101 - ENGINEERING MATHEMATICS": 10,
+          "X18102 - PHYSICS": 12,
+          "X18103 - CHEMISTRY": 7.5,
+          "X18104 - ENGLISH": 15,
+          "Z18105 - BASICS ENGNEERING GRAPHICS": 8
+        },
+        "practicalExamination": {
+          "X18151 - PHYSICS LABORATARY": 78,
+          "X18152 - CHEMISTRY LABORATARY": 76,
+          "Z18153 - C PROGRAMMING": 84
+        },
+        "examination": {
+          "X18101 - ENGINEERING MATHEMATICS": 72,
+          "X18102 - PHYSICS": 73,
+          "X18103 - CHEMISTRY": 70,
+          "X18104 - ENGLISH": 95,
+          "Z18105 - BASICS ENGNEERING GRAPHICS": 80
+        },
+        "others": {
+          "X18154 - INPLANT TRANING": "P",
+          "X18155 - PHYSICAL EDUCATION": "P"
+        }
+      },
+      "semester2": {
+        "contiousAssement1": {
+          "X18201 - ENGINEERING MATHEMATICS 1": 7,
+          "X18202 - CALCULUS AND ITS APPLICATION": 6,
+          "Z18203 - APPLIED PHYSICS": 8,
+          "Z18204 - ENGINEERING CHEMISTRY": 10,
+          "Z18205 - PROBLEM SOLVING USING PYTHON": 9
+        },
+        "contiousAssement2": {
+          "X18201 - ENGINEERING MATHEMATICS 1": 10,
+          "X18202 - CALCULUS AND ITS APPLICATION": 6,
+          "Z18203 - APPLIED PHYSICS": 8,
+          "Z18204 - ENGINEERING CHEMISTRY": 9,
+          "Z18205 - PROBLEM SOLVING USING PYTHON": 11
+        },
+        "contiousAssement3": {
+          "X18201 - ENGINEERING MATHEMATICS 1": 7.5,
+          "X18202 - CALCULUS AND ITS APPLICATION": 6,
+          "Z18203 - APPLIED PHYSICS": 7,
+          "Z18204 - ENGINEERING CHEMISTRY": 15,
+          "Z18205 - PROBLEM SOLVING USING PYTHON": 14
+        },
+        "practicalExamination": {
+          "Z18251 - APPLIED PHYSICS LABORATARY": 75,
+          "X18252 - CHEMISTRY LABORATARY": 78,
+          "Z18253 - PROBLEM SOLVING USING PYTHON LABORATARY": 85
+        },
+        "examination": {
+          "X18201 - ENGINEERING MATHEMATICS 1": 76,
+          "X18202 - CALCULUS AND ITS APPLICATION": 71,
+          "Z18203 - APPLIED PHYSICS": 80,
+          "Z18204 - ENGINEERING CHEMISTRY": 69,
+          "Z18205 - PROBLEM SOLVING USING PYTHON": 92
+        },
+        "others": {
+          "X18254 - COMMUNICATIVE ENGLISH LABORATARY": "P",
+          "X18255 - PHYSICAL EDUCATION 2": "P"
+        }
+      },
+      "semester3": {
+        "contiousAssement1": {
+          "Z18301 - STATISTICS AND PROBABILITY MODELS": 6,
+          "Z18302 - BASICS OF ELECTRONICS": 4,
+          "Z18303 - RELATIONAL DATABASE MANAGEMENT SYSTEM": 3,
+          "Z18304 - DATA STRUCTURE": 8
+        },
+        "contiousAssement2": {
+          "Z18301 - STATISTICS AND PROBABILITY MODELS": 8,
+          "Z18302 - BASICS OF ELECTRONICS": 6,
+          "Z18303 - RELATIONAL DATABASE MANAGEMENT SYSTEM": 7,
+          "Z18304 - DATA STRUCTURE": 8
+        },
+        "contiousAssement3": {
+          "Z18301 - STATISTICS AND PROBABILITY MODELS": 5,
+          "Z18302 - BASICS OF ELECTRONICS": 7,
+          "Z18303 - RELATIONAL DATABASE MANAGEMENT SYSTEM": 8,
+          "Z18304 - DATA STRUCTURE": 6
+        },
+        "practicalExamination": {
+          "Z18351 - ELECTRONICS LABORATARY": 67,
+          "Z18352 - RELATIONAL DATABASE MANAGEMENT SYSTEM LABORATARY": 70,
+          "Z18353 - DATA STRUCTURE LABORATARY": 79,
+          "Z18354 - PC HARDWARE AND PERIPHERALS": 84,
+          "Z18355 - MULTIMEDIA LABORATARY": 100
+        },
+        "examination": {
+          "Z18301 - STATISTICS AND PROBABILITY MODELS": 76,
+          "Z18302 - BASICS OF ELECTRONICS": 74,
+          "Z18303 - RELATIONAL DATABASE MANAGEMENT SYSTEM": 86,
+          "Z18304 - DATA STRUCTURE": 91
+        },
+        "others": {
+          "NIL": null
+        }
+      },
+      "semester4": {
+        "contiousAssement1": {
+          "Z18401 - JAVA PROGRAMMING": 5,
+          "Z18402 - OPERATING SYSTEM": 8,
+          "Z18403 - SOFTWARE ENGINEERING": 11,
+          "Z18404 - MICROPROCESSOR AND MICROCONTROLLER": 10
+        },
+        "contiousAssement2": {
+          "Z18401 - JAVA PROGRAMMING": 10,
+          "Z18402 - OPERATING SYSTEM": 7,
+          "Z18403 - SOFTWARE ENGINEERING": 8,
+          "Z18404 - MICROPROCESSOR AND MICROCONTROLLER": 13
+        },
+        "contiousAssement3": {
+          "Z18401 - JAVA PROGRAMMING": 9,
+          "Z18402 - OPERATING SYSTEM": 8,
+          "Z18403 - SOFTWARE ENGINEERING": 7,
+          "Z18404 - MICROPROCESSOR AND MICROCONTROLLER": 15
+        },
+        "practicalExamination": {
+          "Z18451 - JAVA PROGRAMMING LABORATARY": 78,
+          "Z18452 - MICROPROCESSOR AND MICROCONTROLLER LABORATARY": 76,
+          "Z18453 - RESPONSIVE WEB DESIGN LABORATARY": 82,
+          "Z18454 - TECHNICAL COMMUNICATION LABORATARY": 86
+        },
+        "examination": {
+          "Z18401 - JAVA PROGRAMMING": 73,
+          "Z18402 - OPERATING SYSTEM": 91,
+          "Z18403 - SOFTWARE ENGINEERING": 66,
+          "Z18404 - MICROPROCESSOR AND MICROCONTROLLER": 100
+        },
+        "others": {
+          "Z18455 - INTERNSHIP": "P"
+        }
+      },
+      "semester5": {
+        "contiousAssement1": {
+          "Z18501 - COMPUTER NETWORK": 5,
+          "Z18502 - INFORMATION SECURITY": 8,
+          "Z18E04 - CONTENT MANAGEMENT SYSTEM": 7
+        },
+        "contiousAssement2": {
+          "Z18501 - COMPUTER NETWORK": 8,
+          "Z18502 - INFORMATION SECURITY": 6,
+          "Z18E04 - CONTENT MANAGEMENT SYSTEM": 9
+        },
+        "contiousAssement3": {
+          "Z18501 - COMPUTER NETWORK": 10,
+          "Z18502 - INFORMATION SECURITY": 11,
+          "Z18E04 - CONTENT MANAGEMENT SYSTEM": 9
+        },
+        "practicalExamination": {
+          "Z18551 - COMPUTER NETWORK LABORATARY": 76,
+          "Z18552 - WEB TECHNOLOGY LABORATARY": 78,
+          "Z18553 - SMART DEVICE PROGRAMMING LABORATARY": 89,
+          "Z18554 - ETHICAL HACKING AND PENETRATION TESTING LABORATARY": 72
+        },
+        "examination": {
+          "Z18501 - COMPUTER NETWORK": 69,
+          "Z18502 - INFORMATION SECURITY": 74,
+          "Z18E04 - CONTENT MANAGEMENT SYSTEM": 89
+        },
+        "others": {
+          "Z18555 - MINI PROJECT AND ENTREPRENEURSHIP": "P"
+        }
+      },
+      "semester6": {
+        "contiousAssement1": {
+          "Z18601 - CLOUD COMPUTING": 8,
+          "Z18602 - BUILDING INTERNET OF THINGS": 7,
+          "Z18E00 - ELECTIVE THEORY": 9
+        },
+        "contiousAssement2": {
+          "Z18601 - CLOUD COMPUTING": 9,
+          "Z18602 - BUILDING INTERNET OF THINGS": 10,
+          "Z18E00 - ELECTIVE THEORY": 8
+        },
+        "contiousAssement3": {
+          "Z18601 - CLOUD COMPUTING": 11,
+          "Z18602 - BUILDING INTERNET OF THINGS": 13,
+          "Z18E00 - ELECTIVE THEORY": 10
+        },
+        "practicalExamination": {
+          "Z18651 - INTERNET OF THINGS": 74,
+          "Z18652 - SOFTWARE TESTING LABORATARY": 82,
+          "Z18653 - SERVER ADMINISTRATION LABORATARY": 100,
+          "Z18654 - ENTERPRISE COMPUTING LABORATARY": 78
+        },
+        "examination": {
+          "Z18601 - CLOUD COMPUTING": 80,
+          "Z18602 - BUILDING INTERNET OF THINGS": 91,
+          "Z18E00 - ELECTIVE THEORY": 100
+        },
+        "others": {
+          "Z18655 - PROJECT WORK VIVA VOICE": "P"
+        }
+      }
+    }
   }
+
 
 ]
