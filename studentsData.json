@@ -3067,7 +3067,149 @@
         }
       }
     }
+  },
+  {
+    "name": "SANTHOSH S",
+    "rollNo": "20XH02",
+    "email": "20xh02@psgpolytech.ac.in",
+    "address": "250/1, SATHY MAIN ROAD, KARATTADIPALAYAM, GOBI(tk), ERODE.",
+    "marks": {
+      "semester3": {
+        "contiousAssement1": {
+          "Z18301 - STATISTICS AND PROBABILITY MODELS":12,
+          "Z18302 - BASICS OF ELECTRONICS":14,
+          "Z18303 - RELATIONAL DATABASE MANAGEMENT SYSTEM":15,
+          "Z18304 - DATA STRUCTURE":13
+        },
+        "contiousAssement2": {
+          "Z18301 - STATISTICS AND PROBABILITY MODELS":13,
+          "Z18302 - BASICS OF ELECTRONICS":15,
+          "Z18303 - RELATIONAL DATABASE MANAGEMENT SYSTEM":14,
+          "Z18304 - DATA STRUCTURE":12
+        },
+        "contiousAssement3": {
+          "Z18301 - STATISTICS AND PROBABILITY MODELS":12,
+          "Z18302 - BASICS OF ELECTRONICS":"A",
+          "Z18303 - RELATIONAL DATABASE MANAGEMENT SYSTEM":"A",
+          "Z18304 - DATA STRUCTURE":11
+        },
+        "practicalExamination": {
+          "Z18351 - ELECTRONICS LABORATARY":78,
+          "Z18352 - RELATIONAL DATABASE MANAGEMENT SYSTEM LABORATARY":87,
+          "Z18353 - DATA STRUCTURE LABORATARY":89,
+          "Z18354 - PC HARDWARE AND PERIPHERALS":85,
+          "Z18355 - MULTIMEDIA LABORATARY":100
+        },
+        "examination": {
+          "Z18301 - STATISTICS AND PROBABILITY MODELS":88,
+          "Z18302 - BASICS OF ELECTRONICS":80,
+          "Z18303 - RELATIONAL DATABASE MANAGEMENT SYSTEM":84,
+          "Z18304 - DATA STRUCTURE":82
+        },
+        "others": {
+          "NIL":null
+        }
+      },
+      "semester4": {
+        "contiousAssement1": {
+          "Z18401 - JAVA PROGRAMMING":13,
+          "Z18402 - OPERATING SYSTEM":11,
+          "Z18403 - SOFTWARE ENGINEERING":12,
+          "Z18404 - MICROPROCESSOR AND MICROCONTROLLER":13
+        },
+        "contiousAssement2": {
+          "Z18401 - JAVA PROGRAMMING":14,
+          "Z18402 - OPERATING SYSTEM":9,
+          "Z18403 - SOFTWARE ENGINEERING":10,
+          "Z18404 - MICROPROCESSOR AND MICROCONTROLLER":10
+        },
+        "contiousAssement3": {
+          "Z18401 - JAVA PROGRAMMING":8,
+          "Z18402 - OPERATING SYSTEM":9,
+          "Z18403 - SOFTWARE ENGINEERING":14,
+          "Z18404 - MICROPROCESSOR AND MICROCONTROLLER":"A"
+        },
+        "practicalExamination": {
+          "Z18451 - JAVA PROGRAMMING LABORATARY":98,
+          "Z18452 - MICROPROCESSOR AND MICROCONTROLLER LABORATARY":96,
+          "Z18453 - RESPONSIVE WEB DESIGN LABORATARY":97,
+          "Z18454 - TECHNICAL COMMUNICATION LABORATARY":94
+        },
+        "examination": {
+          "Z18401 - JAVA PROGRAMMING":90,
+          "Z18402 - OPERATING SYSTEM":87,
+          "Z18403 - SOFTWARE ENGINEERING":92,
+          "Z18404 - MICROPROCESSOR AND MICROCONTROLLER":96
+        },
+        "others": {
+          "Z18455 - INTERNSHIP":"P"
+        }
+      },
+      "semester5": {
+        "contiousAssement1": {
+          "Z18501 - COMPUTER NETWORK":9,
+          "Z18502 - INFORMATION SECURITY":11,
+          "Z18E04 - CONTENT MANAGEMENT SYSTEM":12
+        },
+        "contiousAssement2": {
+          "Z18501 - COMPUTER NETWORK":13,
+          "Z18502 - INFORMATION SECURITY":14,
+          "Z18E04 - CONTENT MANAGEMENT SYSTEM":8
+        },
+        "contiousAssement3": {
+          "Z18501 - COMPUTER NETWORK":13,
+          "Z18502 - INFORMATION SECURITY":14,
+          "Z18E04 - CONTENT MANAGEMENT SYSTEM":8
+        },
+        "practicalExamination": {
+          "Z18551 - COMPUTER NETWORK LABORATARY":76,
+          "Z18552 - WEB TECHNOLOGY LABORATARY":72,
+          "Z18553 - SMART DEVICE PROGRAMMING LABORATARY":79,
+          "Z18554 - ETHICAL HACKING AND PENETRATION TESTING LABORATARY":85
+        },
+        "examination": {
+          "Z18501 - COMPUTER NETWORK":83,
+          "Z18502 - INFORMATION SECURITY":93,
+          "Z18E04 - CONTENT MANAGEMENT SYSTEM":79
+        },
+        "others": {
+          "Z18555 - MINI PROJECT AND ENTREPRENEURSHIP":"P"
+        }
+      },
+      "semester6": {
+        "contiousAssement1": {
+          "Z18601 - CLOUD COMPUTING":10,
+          "Z18602 - BUILDING INTERNET OF THINGS":13.5,
+          "Z18E00 - ELECTIVE THEORY":12
+        },
+        "contiousAssement2": {
+          "Z18601 - CLOUD COMPUTING":12,
+          "Z18602 - BUILDING INTERNET OF THINGS":9,
+          "Z18E00 - ELECTIVE THEORY":11
+        },
+        "contiousAssement3": {
+          "Z18601 - CLOUD COMPUTING":14,
+          "Z18602 - BUILDING INTERNET OF THINGS":8,
+          "Z18E00 - ELECTIVE THEORY":15
+        },
+        "practicalExamination": {
+          "Z18651 - INTERNET OF THINGS":85,
+          "Z18652 - SOFTWARE TESTING LABORATARY":90,
+          "Z18653 - SERVER ADMINISTRATION LABORATARY":100,
+          "Z18654 - ENTERPRISE COMPUTING LABORATARY":98
+        },
+        "examination": {
+          "Z18601 - CLOUD COMPUTING":80,
+          "Z18602 - BUILDING INTERNET OF THINGS":81,
+          "Z18E00 - ELECTIVE THEORY":75
+        },
+        "others": {
+          "Z18655 - PROJECT WORK VIVA VOICE":"P"
+        }
+      }
+    }
   }
+
 
 
 
